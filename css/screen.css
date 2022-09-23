@@ -1,6 +1,6 @@
 html, .container { 
     height: 100%;
-    background-image: linear-gradient(to top right, red, blue);
+    background-image: linear-gradient(to top right, LightGray, Orange);
     font-family: 'Roboto','Open Sans','Arial';
 }
 
@@ -43,7 +43,7 @@ form button {
     width: 100px; 
     height: 35px; 
     margin: 0 10px; 
-    background: linear-gradient(to right, #ff0000, #ffffa7); 
+    background: linear-gradient(to right, #ffa500, #b4b4b4); 
     border: 0;
     outline: none; 
     cursor: pointer;
